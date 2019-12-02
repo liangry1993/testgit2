@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a566025-8fdc-44c5-8a99-162c80e3e64b" name="Default Changelist" comment="" />
+    <list default="true" id="7a566025-8fdc-44c5-8a99-162c80e3e64b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cent_secant_4_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ct_rss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/footer1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_18_118.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loadinfo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading_32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pinglun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pinglun_line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pinglun_loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/qq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/share_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfristcss.css" beforeDir="false" afterPath="$PROJECT_DIR$/myfristcss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfristweb.html" beforeDir="false" afterPath="$PROJECT_DIR$/myfristweb.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +42,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TEjduHsy70KBtsR2KyIIUj5Hei" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -51,10 +82,22 @@
       <workItem from="1573032242400" duration="1306000" />
       <workItem from="1574836342560" duration="754000" />
       <workItem from="1575253888770" duration="2257000" />
+      <workItem from="1575274002155" duration="2306000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
